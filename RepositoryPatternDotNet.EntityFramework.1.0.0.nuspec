@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>RepositoryPatternPatternDotNet.EntityFramework</id>
+        <id>RepositoryPatternDotNet.EntityFramework</id>
         <version>1.0.0</version>
-        <title>RepositoryPatternPatternDotNet.EntityFramework</title>
+        <title>RepositoryPatternDotNet.EntityFramework</title>
         <authors>ta.speot.is</authors>
         <owners>ta.speot.is</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -11,12 +11,12 @@
         <summary />
         <copyright>Copyright Todd Aspeotis 2013</copyright>
         <dependencies>
-            <dependency id="RepositoryPatternPatternDotNet" />
+            <dependency id="RepositoryPatternDotNet" />
             <dependency id="EntityFramework" />
         </dependencies>
     </metadata>
     <files>
-      <file src="RepositoryPatternPatternDotNet.EntityFramework\bin\Release\RepositoryPatternPatternDotNet.EntityFramework.dll"
-            target="lib\net45\RepositoryPatternPatternDotNet.EntityFramework.dll" />
+      <file src="RepositoryPatternDotNet.EntityFramework\bin\Release\RepositoryPatternDotNet.EntityFramework.dll"
+            target="lib\net45\RepositoryPatternDotNet.EntityFramework.dll" />
     </files>
 </package>
